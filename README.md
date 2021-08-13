@@ -1,7 +1,7 @@
 Overview
 At the beginning, I will randomly choose the position of 9 rooms in the 3x3 matrix. After that, I will randomly choose
 the room, item,character as the answer and a room for starting point. I will display the list of item and character 
-at first. Moreover, I also have 8 choices for the user in the project
+at first. Moreover, I also have 8 choices for the user in the project including 4 positions players can move, taking item, dropping item, checking inventory, and clue character
 
 After each choice, it will display the current position for the user  and the 3x3 matrixso that they can know which 
 direction that the want to move in the next choice. When the current room,item,character match the answer, we will win
